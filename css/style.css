@@ -1,14 +1,34 @@
 body{
-    font: 20px Arial;
+    font: 20px 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .navbar{
-    background-color:#F8C471;
+    background-color: #F39C12;
 }
 .quem-somos{
-    background-color: #F5B041 ;
+    
+    background-color: #f5b041 ;
+    padding-top: 30px;
+    
     
 }
 .margin{
-    padding: 30px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color:#F7B954;
+    
+
+}
+.bg-footer{
+    color: #BA4A00;
+   
+}
+.texto{
+    justify-content: center;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 30px;
+    padding-inline-start: 10px;
 
 }
